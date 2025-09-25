@@ -1,0 +1,35 @@
+# Budget Visualization Application File Structure
+
+Here's a comprehensive table describing the file structure and source files of your FY26 Budget and Expense Analysis React application:
+
+| File/Directory | Type | Description |
+|---------------|------|-------------|
+| `Dockerfile` | Configuration | Defines the Docker container setup with Node.js 18 Alpine image, npm installations for React, Recharts, and Tailwind CSS dependencies |
+| `docker-compose.yml` | Configuration | Orchestrates the Docker container, defining ports (3000), volume mappings for code and node_modules, and environment variables |
+| `package.json` | Configuration | Defines project metadata, dependencies (React, Recharts, Tailwind CSS), and npm scripts |
+| `tailwind.config.js` | Configuration | Configures Tailwind CSS processing, specifying content paths for React components |
+| `postcss.config.js` | Configuration | Sets up PostCSS with Tailwind and Autoprefixer plugins |
+| `src/` | Directory | Contains all React application source code |
+| `src/index.js` | JavaScript | Application entry point that renders the root React component |
+| `src/App.js` | React Component | Main application component that imports and renders BudgetVisualization |
+| `src/index.css` | CSS | Global styles with Tailwind directives and any custom CSS |
+| `src/BudgetVisualization.jsx` | React Component | Core visualization component for budget analysis with charts and tables |
+| `public/` | Directory | Static assets that don't require processing |
+| `public/index.html` | HTML | Base HTML template with root div for React mounting |
+| `node_modules/` | Directory | (Docker volume) Contains all installed npm dependencies |
+| `budget_data_FY26.json` | Data | Source JSON data for budget visualization |
+
+## Key Data Files:
+- `budget_data_FY26.json`: Contains the structured budget data with categories, expenses, and monthly breakdowns
+- `FY26 Budget and Expense Analysis.tsx`: Original TypeScript component file that was converted to BudgetVisualization.jsx
+
+## Key Components:
+- `BudgetVisualization`: Main component that renders various charts (bar, pie, line) and a data table
+- Features include:
+  - Budget vs. Expense visualization
+  - Category breakdowns and drill-downs
+  - Variance analysis
+  - Monthly/Yearly toggle views
+  - Different chart type options
+
+You can use this reference to continue developing and enhancing your React application with new features in future conversations.

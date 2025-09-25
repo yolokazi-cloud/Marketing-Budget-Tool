@@ -1,0 +1,60 @@
+services:
+  frontend:
+    # Build context is the root directory where the original Dockerfile is
+    build: .
+    container_name: budget-tracker-frontend
+    ports:
+      - "3000:3000" # Expose React app port
+    volumes:
+      # Mount source code, excluding node_modules
+      - ./:/app
+      - /app/node_modules
+      # Mount the public directory separately if needed, e.g., if backend writes JSON there initially
+      # - ./public:/app/public
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - WDS_SOCKET_PORT=0 # Fix for potential HMR port conflict
+      # Point frontend API calls to the backend service (adjust port if needed)
+      - REACT_APP_API_URL=http://backend:3001/api
+    depends_on:
+      - backend # Optional: wait for backend (useful if frontend needs API on start)
+    # The command is likely inferred from react-scripts, but can be explicit:
+    # command: npm start
+
+  backend:
+    # Build context is the new 'backend' subfolder
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: budget-tracker-backend
+    # This command runs *inside* the Linux container to help with debugging.
+    command: sh -c "echo '--- Backend Environment Variables ---' && printenv && echo '--- Starting Node App ---' && npm start"
+    ports:
+      - "3001:3001" # Expose backend API port
+    volumes:
+      # Mount backend source code for development (hot-reloading if using nodemon)
+      - ./backend:/usr/src/app
+      - /usr/src/app/node_modules # Exclude node_modules from host mount
+    environment:
+      # Load variables from .env file (ensure it's in the backend folder)
+      - NODE_ENV=development
+    env_file:
+      - ./backend/.env
+    # # Load MONGO_URI and PORT from .env file
+    depends_on:
+      - mongo # Ensure mongo starts before the backend
+
+  mongo:
+    image: mongo:latest # Use official MongoDB image
+    container_name: budget-tracker-mongo
+    ports:
+      - "27018:27017" # Expose MongoDB port
+    volumes:
+      - mongo-data:/data/db # Persist database data using a named volume
+    # Optional: Add environment variables for MongoDB authentication if needed
+    # environment:
+    #   - MONGO_INITDB_ROOT_USERNAME=your_user
+    #   - MONGO_INITDB_ROOT_PASSWORD=your_password
+
+volumes:
+  mongo-data: # Define the named volume for MongoDB data persistence

@@ -1,0 +1,310 @@
+{
+  "financialYear": "FY2026",
+  "14152001": {
+    "teamName": "Marketing Operations",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 45000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 48000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 44000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 51000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 47000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 49000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 46000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 52000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 48000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 50000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 47000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 49000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Salaries", "value": 15, "amount": 75000 },
+      { "name": "Fringe Benefits", "value": 5, "amount": 25000 },
+      { "name": "UIF", "value": 1, "amount": 5000 },
+      { "name": "Travel Claims", "value": 4, "amount": 20000 }
+    ],
+    "programs": [
+      { "name": "Agencies and Consulting Services", "value": 10, "amount": 50000 },
+      { "name": "Content Creation", "value": 10, "amount": 50000 },
+      { "name": "Events and Sponsorships", "value": 15, "amount": 75000 },
+      { "name": "Marketing Tech and Software", "value": 20, "amount": 100000 },
+      { "name": "Paid Media", "value": 10, "amount": 50000 },
+      { "name": "Production of Physical Branding", "value": 5, "amount": 25000 },
+      { "name": "General", "value": 5, "amount": 25000 }
+    ],
+    "categories": []
+  },
+  "14152002": {
+    "teamName": "Communications - PR and Social",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 32000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 34000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 31000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 36000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 33000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 35000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 32000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 37000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 34000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 36000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 33000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 35000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Salaries", "value": 20, "amount": 84000 },
+      { "name": "Expense Claims", "value": 5, "amount": 21000 }
+    ],
+    "programs": [
+      { "name": "Agencies and Consulting Services", "value": 15, "amount": 63000 },
+      { "name": "Content Creation", "value": 15, "amount": 63000 },
+      { "name": "Events and Sponsorships", "value": 10, "amount": 42000 },
+      { "name": "Marketing Tech and Software", "value": 10, "amount": 42000 },
+      { "name": "Paid Media", "value": 15, "amount": 63000 },
+      { "name": "Production of Physical Branding", "value": 5, "amount": 21000 },
+      { "name": "General", "value": 5, "amount": 21000 }
+    ],
+    "categories": []
+  },
+  "14152003": {
+    "teamName": "Revenue Marketing",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 65000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 68000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 64000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 71000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 67000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 69000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 66000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 72000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 68000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 70000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 67000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 69000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Salaries", "value": 20, "amount": 168000 }
+    ],
+    "programs": [
+      { "name": "Agencies and Consulting Services", "value": 20, "amount": 168000 },
+      { "name": "Events and Sponsorships", "value": 20, "amount": 168000 },
+      { "name": "Marketing Tech and Software", "value": 15, "amount": 126000 },
+      { "name": "Paid Media", "value": 25, "amount": 210000 }
+    ],
+    "categories": []
+  },
+  "14152004": {
+    "teamName": "Communications - Brand and Sponsorships",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 28000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 30000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 27000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 33000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 29000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 31000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 28000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 34000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 30000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 32000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 29000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 31000, "anticipated": 0 }
+    ],
+    "people": [],
+    "programs": [
+      { "name": "Events and Sponsorships", "value": 60, "amount": 244800 },
+      { "name": "Production of Physical Branding", "value": 20, "amount": 81600 },
+      { "name": "Gifts (People)", "value": 20, "amount": 81600 }
+    ],
+    "categories": []
+  },
+  "14152005": {
+    "teamName": "Account Based Marketing",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 42000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 44000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 41000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 47000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 43000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 45000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 42000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 48000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 44000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 46000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 43000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 45000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Salaries", "value": 20, "amount": 108000 }
+    ],
+    "programs": [
+      { "name": "Paid Media", "value": 80, "amount": 432000 }
+    ],
+    "categories": []
+  },
+  "14152006": {
+    "teamName": "Shared Services",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 25000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 27000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 24000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 29000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 26000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 28000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 25000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 30000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 27000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 29000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 26000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 28000, "anticipated": 0 }
+    ],
+    "people": [],
+    "programs": [
+      { "name": "Marketing Tech and Software", "value": 50, "amount": 168000 },
+      { "name": "General", "value": 50, "amount": 168000 }
+    ],
+    "categories": []
+  },
+  "14152007": {
+    "teamName": "Customer Experience",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 38000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 40000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 37000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 43000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 39000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 41000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 38000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 44000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 40000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 42000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 39000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 41000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Salaries", "value": 20, "amount": 100800 }
+    ],
+    "programs": [
+      { "name": "Events and Sponsorships", "value": 80, "amount": 403200 }
+    ],
+    "categories": []
+  },
+  "14152008": {
+    "teamName": "Communications - Employee Engagement",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 22000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 24000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 21000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 26000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 23000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 25000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 22000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 27000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 24000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 26000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 23000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 25000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Gifts (People)", "value": 50, "amount": 156000 }
+    ],
+    "programs": [
+      { "name": "Events and Sponsorships", "value": 50, "amount": 156000 }
+    ],
+    "categories": []
+  },
+  "14152009": {
+    "teamName": "Partner Marketing",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 35000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 37000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 34000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 39000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 36000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 38000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 35000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 40000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 37000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 39000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 36000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 38000, "anticipated": 0 }
+    ],
+    "people": [],
+    "programs": [
+      { "name": "Agencies and Consulting Services", "value": 40, "amount": 182400 },
+      { "name": "Events and Sponsorships", "value": 40, "amount": 182400 },
+      { "name": "Paid Media", "value": 20, "amount": 91200 }
+    ],
+    "categories": []
+  },
+  "14152010": {
+    "teamName": "Marketing Projects",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 30000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 32000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 29000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 34000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 31000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 33000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 30000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 35000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 32000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 34000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 31000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 33000, "anticipated": 0 }
+    ],
+    "people": [],
+    "programs": [
+      { "name": "Agencies and Consulting Services", "value": 25, "amount": 102000 },
+      { "name": "Content Creation", "value": 25, "amount": 102000 },
+      { "name": "General", "value": 50, "amount": 204000 }
+    ],
+    "categories": []
+  },
+  "14152011": {
+    "teamName": "Office of the CTO",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 55000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 58000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 54000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 61000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 57000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 59000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 56000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 62000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 58000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 60000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 57000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 59000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Salaries", "value": 20, "amount": 144000 }
+    ],
+    "programs": [
+      { "name": "Agencies and Consulting Services", "value": 80, "amount": 576000 }
+    ],
+    "categories": []
+  },
+  "14152012": {
+    "teamName": "IT Services Marketing",
+    "months": [
+      { "date": "2025-03-01", "month": "Mar-25", "category": "Other Expenses", "actual": 26000, "anticipated": 0 },
+      { "date": "2025-04-01", "month": "Apr-25", "category": "Other Expenses", "actual": 28000, "anticipated": 0 },
+      { "date": "2025-05-01", "month": "May-25", "category": "Other Expenses", "actual": 25000, "anticipated": 0 },
+      { "date": "2025-06-01", "month": "Jun-25", "category": "Other Expenses", "actual": 30000, "anticipated": 0 },
+      { "date": "2025-07-01", "month": "Jul-25", "category": "Other Expenses", "actual": 27000, "anticipated": 0 },
+      { "date": "2025-08-01", "month": "Aug-25", "category": "Other Expenses", "actual": 29000, "anticipated": 0 },
+      { "date": "2025-09-01", "month": "Sep-25", "category": "Other Expenses", "actual": 26000, "anticipated": 0 },
+      { "date": "2025-10-01", "month": "Oct-25", "category": "Other Expenses", "actual": 31000, "anticipated": 0 },
+      { "date": "2025-11-01", "month": "Nov-25", "category": "Other Expenses", "actual": 28000, "anticipated": 0 },
+      { "date": "2025-12-01", "month": "Dec-25", "category": "Other Expenses", "actual": 30000, "anticipated": 0 },
+      { "date": "2026-01-01", "month": "Jan-26", "category": "Other Expenses", "actual": 27000, "anticipated": 0 },
+      { "date": "2026-02-01", "month": "Feb-26", "category": "Other Expenses", "actual": 29000, "anticipated": 0 }
+    ],
+    "people": [
+      { "name": "Salaries", "value": 20, "amount": 70200 }
+    ],
+    "programs": [
+      { "name": "Content Creation", "value": 40, "amount": 140400 },
+      { "name": "Paid Media", "value": 40, "amount": 140400 }
+    ],
+    "categories": []
+  }
+}
