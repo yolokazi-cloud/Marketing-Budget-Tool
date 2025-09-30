@@ -1,6 +1,7 @@
 {
   "name": "fy26-budget-analysis",
   "version": "0.1.0",
+  "homepage": "https://<yolokazi-cloud>.github.io/<marketing-budget-app>",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -15,10 +16,12 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
-    "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +42,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17"
   }
