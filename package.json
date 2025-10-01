@@ -1,7 +1,7 @@
 {
   "name": "fy26-budget-analysis",
   "version": "0.1.0",
-  "homepage": "https://<yolokazi-cloud>.github.io/<marketing-budgeting-app>",
+  "homepage": "https://yolokazi-cloud.github.io/marketing-budgeting-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
