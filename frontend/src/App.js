@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
+import BudgetOverview from './components/BudgetOverview';
+import BudgetExpensePage from './components/BudgetExpensePage';
+import logo from './Altron Logo - Light 2x.png';
 import initialBudgetData from './budgetData.json';
-import BudgetOverview from './BudgetOverview';
-import BudgetExpensePage from './BudgetExpensePage';
-import logo from './assets/Altron Logo - Light 2x.png';
 
 
 const App = () => {

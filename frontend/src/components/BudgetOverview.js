@@ -1,8 +1,10 @@
-import React, { useState, useMemo } from 'react';
+import React from 'react';
+import {useState} from 'react';
+import {useMemo} from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { Upload, DollarSign, TrendingUp} from 'lucide-react';
 import * as XLSX from 'xlsx';
-import logo from './assets/Altron Logo - Light 2x.png';
+import logo from '../Altron Logo - Light 2x.png';
 
 const COLORS = [
   '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', 
